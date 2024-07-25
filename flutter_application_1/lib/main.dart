@@ -107,6 +107,9 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
+              'royale jaune',
+            ),
+            const Text(
               'royale salutation',
             ),
             const Text(
